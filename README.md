@@ -8,3 +8,5 @@ Wallet for ethereum
 - This wallet is made up of two parts:
   - Web3: This is the part that is used to communicate with the ethereum node.
   - Wallet: This is the part that is used to store the private key.
+
+[![Rust](https://github.com/shikharvashistha/wallet-e/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/shikharvashistha/wallet-e/actions/workflows/rust.yml)
